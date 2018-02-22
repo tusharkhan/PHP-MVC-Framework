@@ -1,4 +1,5 @@
 #PHP MVC Framework
+
 To use this framework there is a config file like this
 
     define('DEBUG', true);
