@@ -1,0 +1,50 @@
+.red{
+    color: red;
+}
+
+.loginForm{
+    margin-top: 16px;
+    padding: 17px;
+    border-radius: 5px;
+    box-shadow: 3px 11px 16px 0 rgba(0,0,0,0.2), 0 16px 20px 0 rgba(0,0,0,0.19);
+    background-color: #f1f1f1;
+}
+
+
+.margin-top {
+    margin-top: 12px !important;
+}
+
+.login-hover:hover{
+    box-shadow: 3px 11px 16px 0 rgba(0,0,0,0.2), 0 16px 20px 0 rgba(0,0,0,0.19);
+    background-color: #4a148c;
+    transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+}
+
+.register-hover:hover{
+    box-shadow: 3px 11px 16px 0 rgba(0,0,0,0.2), 0 16px 20px 0 rgba(0,0,0,0.19);
+    background-color: #1a237e ;
+    transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+}
+
+.login-hover, .register-hover{
+    transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+}
+
+
+input[type="email"], input[type="password"] {
+    background-color : #dcedc8;
+}
+
+input:focus{
+    color: #000000;
+}
