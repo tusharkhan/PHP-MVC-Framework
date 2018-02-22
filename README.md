@@ -1,4 +1,4 @@
-#PHP MVC Framework
+PHP MVC Framework
 
 To use this framework there is a config file like this
 
